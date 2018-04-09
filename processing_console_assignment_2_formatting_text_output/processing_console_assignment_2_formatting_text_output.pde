@@ -1,8 +1,8 @@
 /**
- * <processing-console-assignment-2-formatting-text-output>
- * by <Yaqub Ibrahim>
+ * processing-console-assignment-2-formatting-text-output
+ * by Yaqub Ibrahim
  * 
- * <Two sentence description of program>
+ * Creating a table of vaules for 3 teams names, wins, loses, and points.
  * 
  */
  
