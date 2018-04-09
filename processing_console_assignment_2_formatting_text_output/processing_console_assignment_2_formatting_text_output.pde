@@ -22,6 +22,7 @@ int team3wins = 16;
 int team3loses = 0;
 int team3points = team3wins*2;
 println("\"The third team is called the Chicago Bulls\"");
+print("Team \t Wins \t Loses \t Points");
 }
 
 void draw() {
